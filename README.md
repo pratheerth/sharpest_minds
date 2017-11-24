@@ -1,4 +1,5 @@
-# sharpest_minds
+# Sharpest Minds
+
 Project repo for the Sharpest Minds test
 
 Kaggle competition - Predicting 6 weeks of daily sales for 1,115 Rossmann store across Germany.
@@ -19,5 +20,7 @@ Submissions are evaluated on the Root Mean Square Percentage Error (RMSPE).
 ## Result
 
 Final scores (public dataset):
+
 XGB - 0.16806
+
 Keras - 0.17660
